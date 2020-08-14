@@ -18,27 +18,37 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Technical Support"
+  company = "University of Twente (MD&I)"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Enschede"
+  date_start = "2018-12-01"
+  date_end = "2019-02-01"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  I assisted with the work related to the development of the data processing and control of existing Magnetic Detection Probes prototypes from the MD&I DiffMag Project. I gave insight in picking the right data acquiring equipment, developed a VHDL controller and gave a kickstart to the overal embedded system's design together with an external hardware suplier.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Student-Job \"Matlab-FPGA Application\""
+  company = "University of Twente (ICD)"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Enschede"
+  date_start = "2018-07-01"
+  date_end = "2018-09-01"
+  description = """
+At the Integrated Circuit Design group I worked on a demo application that implemented MATLAB/Simulink filtering models on an Altera FPGA. This was a feasibility study for further student use for the final year's 'design project' of the Electrical Engineering Bachelor.
+
+
+  """
+
+
+[[experience]]
+  title = "Volunteer work - Secretary Organisation"
+  company = "Jonge Democraten Overijssel"
+  company_url = ""
+  location = "Enschede"
+  date_start = "2016-07-01"
+  date_end = "2017-07-01"
+  description = ""
 
 +++
