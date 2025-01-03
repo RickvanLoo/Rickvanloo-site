@@ -54,6 +54,7 @@ jobs:
           HUGO_ENVIRONMENT: production
           TZ: America/Los_Angeles
         run: |
+          env HUGO_PARAMS_GRAVATAR="${{ secrets.MAIL }}" \
           hugo \
             --gc \
             --minify \
