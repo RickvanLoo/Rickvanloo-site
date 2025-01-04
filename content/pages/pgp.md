@@ -18,3 +18,5 @@ title = ''
     KyhTuLqlhpzy0gs=
     =tYov
     -----END PGP PUBLIC KEY BLOCK-----
+
+[Download](/pgp/publickey.mail@rickvanloo.nl-081b83ba7d2342ef22df25df04f88f6910caeeb1.asc)
