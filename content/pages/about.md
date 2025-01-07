@@ -12,7 +12,7 @@ My interests involve modern software design in the embedded world. Bare-metal Mi
 ---------
 
 Sept. 2024-Now 
-:   **Software Developer**; [BauWatch Technology Group](https://www.bauwatch.com/en-gb/) (Enschede, NL)
+:   **Software Developer**; [BauWatch Technology](https://www.bauwatch.com/en-gb/) (Enschede, NL)
 >***Skills:** Go. Microservices.
 Embedded Linux Development, Backend Development* 
 
